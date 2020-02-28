@@ -1,1 +1,2 @@
-予測モデル作成中
+House Prices_01は前処理
+House Prices_02はモデル生成
