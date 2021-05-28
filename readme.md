@@ -6,5 +6,5 @@
 | House Prices | 家賃の予測をしたコード　|
 
 
-* Titanicのデータは、[クリック](https://www.kaggle.com/c/titanic)するとダウンロードできます。
-* House Pricesのデータは、[クリック](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)するとダウンロードできます。
+* Titanicのデータは、[こちら](https://www.kaggle.com/c/titanic)からダウンロードできます。
+* House Pricesのデータは、[こちら](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)からダウンロードできます。
