@@ -1,2 +1,2 @@
-* House Prices_01は前処理
-* House Prices_02はモデル生成
+* House Prices_01.ipynbは前処理のコードです
+* House Prices_02.ipynbはモデル生成のコードです
