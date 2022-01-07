@@ -2,8 +2,8 @@
 
 |フォルダ| 内容 |
 |:----|:-------|
-| Titanic | タイタニックのデータを分析したコード |
-| House Prices | 家賃の予測をしたコード　|
+| Titanic | タイタニックデータにおいて、生存を予測したコード |
+| House Prices | 家賃の価格を予測したコード　|
 
 
 * Titanicのデータは、[こちら](https://www.kaggle.com/c/titanic)からダウンロードできます。
